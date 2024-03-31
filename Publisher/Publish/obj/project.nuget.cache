@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "J/VzkgUezkt0YmCC9zqI3fzjSIu4Zlm7wtwBw76WJymafe4mYnu0Oi1cJ+Gv10hoXy6Tr+q5YO+NZoS9OCo1FA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nedim\\source\\repos\\SecilStoreTask\\Publisher\\Publish\\Publish.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nedim\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\nedim\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\nedim\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\nedim\\.nuget\\packages\\polly\\8.3.1\\polly.8.3.1.nupkg.sha512",
+    "C:\\Users\\nedim\\.nuget\\packages\\polly.core\\8.3.1\\polly.core.8.3.1.nupkg.sha512",
+    "C:\\Users\\nedim\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\nedim\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\nedim\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

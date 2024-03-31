@@ -1,0 +1,12 @@
+C:\Users\nedim\source\repos\SecilStoreTask\Publisher\Publish\bin\Debug\net8.0\Publish.deps.json
+C:\Users\nedim\source\repos\SecilStoreTask\Publisher\Publish\bin\Debug\net8.0\Publish.dll
+C:\Users\nedim\source\repos\SecilStoreTask\Publisher\Publish\bin\Debug\net8.0\Publish.pdb
+C:\Users\nedim\source\repos\SecilStoreTask\Publisher\Publish\obj\Debug\net8.0\Publish.csproj.AssemblyReference.cache
+C:\Users\nedim\source\repos\SecilStoreTask\Publisher\Publish\obj\Debug\net8.0\Publish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nedim\source\repos\SecilStoreTask\Publisher\Publish\obj\Debug\net8.0\Publish.AssemblyInfoInputs.cache
+C:\Users\nedim\source\repos\SecilStoreTask\Publisher\Publish\obj\Debug\net8.0\Publish.AssemblyInfo.cs
+C:\Users\nedim\source\repos\SecilStoreTask\Publisher\Publish\obj\Debug\net8.0\Publish.csproj.CoreCompileInputs.cache
+C:\Users\nedim\source\repos\SecilStoreTask\Publisher\Publish\obj\Debug\net8.0\Publish.dll
+C:\Users\nedim\source\repos\SecilStoreTask\Publisher\Publish\obj\Debug\net8.0\refint\Publish.dll
+C:\Users\nedim\source\repos\SecilStoreTask\Publisher\Publish\obj\Debug\net8.0\Publish.pdb
+C:\Users\nedim\source\repos\SecilStoreTask\Publisher\Publish\obj\Debug\net8.0\ref\Publish.dll

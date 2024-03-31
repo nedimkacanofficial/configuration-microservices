@@ -1,0 +1,8 @@
+{
+  "Publisher": {
+    "HostName": "localhost",
+    "UserName": "guest",
+    "Pasword": "guest",
+    "RetryCount": 5
+  }
+}
